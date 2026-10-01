@@ -1,0 +1,4 @@
+# Temporary: ask search engines not to list this site.
+# Delete this file (and the "robots" line in index.html) when you are ready for the page to be found in search.
+User-agent: *
+Disallow: /
